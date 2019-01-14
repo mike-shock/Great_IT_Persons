@@ -1,6 +1,6 @@
 # Great_IT_Persons
 Materials about well-known, famous and great programmers and other IT persons (in Russian).
-Tey are mostly Turing Award Winners and programming language creators with some of my favourite programmers.
+They are mostly Turing Award Winners and programming language creators with some of my favourite programmers.
 
 00.00 De Icaza Miguel (1972-)
 
