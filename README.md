@@ -53,6 +53,7 @@ They are mostly Turing Award Winners and programming language creators with some
 * 11.22 Lerdorf, Rasmus (22.11.1968-)
 * 12.02 Hejlsberg, Anders (02.12.1960-)
 * 12.03 Backus, John (03.12.1924-17.03.2007)
+* 12.05 Robert "Uncle Bob" Martin (05.12.1952)
 * 12.09 Hopper, Grace (09.12.1906-01.01.1992)
 * 12.10 Lovelace, Ada (10.12.1815-27.11.1852)
 * 12.28 Torvalds, Linus (28.12.1969-)
