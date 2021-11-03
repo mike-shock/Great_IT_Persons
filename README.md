@@ -2,6 +2,10 @@
 Materials about well-known, famous and great programmers and other IT persons (in Russian).
 They are mostly Turing Award Winners and programming language creators with some of my favourite programmers.
 
+Материалы об известных, знаменитых и великих программистах и других IT-шниках (на русском языке).
+В основном это награждённые Turing Award и создатели языков программирования, а также мои любимые программисты.
+Портреты можно напечатать и сделать "иконостас" в школе или ВУЗе.
+
 * 00.00 De Icaza, Miguel (1972-)
 * 00.00 Wilson, Sophie (1957-)
 * 01.01 Kernighan, Brian (01.01.1942-)
